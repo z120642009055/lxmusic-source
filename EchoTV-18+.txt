@@ -1,6 +1,7 @@
-    {
+{
   "site_name": "EchoTV",
   "announcement": "",
+  "api_site": {
 
    "apidanaizi.com": {
       "key": "apidanaizi.com",
