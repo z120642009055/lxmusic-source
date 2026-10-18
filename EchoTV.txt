@@ -2,15 +2,7 @@
   "site_name": "EchoTV",
   "announcement": "",
   "api_site": {
-    "1792361469940": {
-      "key": "1792361469940",
-      "name": "量子资源",
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "detail": null,
-      "from": "custom",
-      "disabled": false,
-      "subscriptionId": null
-    },
+    
     "1792361483806": {
       "key": "1792361483806",
       "name": "新浪资源",
