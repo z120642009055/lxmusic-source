@@ -1,0 +1,282 @@
+{
+  "site_name": "EchoTV",
+
+    "cj.lzcaiji.com": {
+      "key": "cj.lzcaiji.com",
+      "name": "🎬量子资源",
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "detail": "https://cj.lzcaiji.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+    "xinlangapi.com": {
+      "key": "xinlangapi.com",
+      "name": "🎬新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "detail": "https://xinlangapi.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+    "jyzyapi.com": {
+      "key": "jyzyapi.com",
+      "name": "🎬金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod/",
+      "detail": "https://jyzyapi.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+    "www.hongniuzy.com": {
+      "key": "www.hongniuzy.com",
+      "name": "🎬红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+   "suonizy.net": {
+      "key": "suonizy.net",
+      "name": "🎬索尼资源",
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "detail": "https://suonizy.net",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+"dyttzyapi.com": {
+      "key": "dyttzyapi.com",
+      "name": "🎬电影天堂",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "http://caiji.dyttzyapi.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+"tyapi.com": {
+      "key": "tyapi.com",
+      "name": "🎬天涯",
+      "api": "http://tyyszy.com/api.php/provide/vod",
+      "detail": "http://tyapi.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+  "jszyapi.com": {
+      "key": "jszyapi.com",
+      "name": "🎬极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "detail": "https://jszyapi.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+  "ssapi.com": {
+      "key": "ssapi.com",
+      "name": "🎬率率",
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "detail": "https://ssapi.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+ "api.guangsuapi.com": {
+      "key": "api.guangsuapi.com",
+      "name": "🎬光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "detail": "https://api.guangsuapi.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+"www.subozy.com": {
+      "key": "www.subozy.com",
+      "name": "🎬速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": "https://www.subozy.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+  "announcement": "",
+  "api_site": {
+    "iqiyizyapi.com": {
+      "key": "iqiyizyapi.com",
+      "name": "🎬-爱奇艺-",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": "https://iqiyizyapi.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+ "kuaichezy.com": {
+      "key": "kuaichezy.com",
+      "name": "🎬快车资源",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "detail": "https://kuaichezy.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    }
+
+ "mtzy.me": {
+      "key": "mtzy.me",
+      "name": "🎬茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://mtzy.me",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+"api.ukuapi88.com": {
+      "key": "api.ukuapi88.com",
+      "name": "🎬U酷影视",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://www.ukuzy.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+    "jinyingzy.com": {
+      "key": "jinyingzy.com",
+      "name": "🎬金鹰点播",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "detail": "https://jinyingzy.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+ "www.maoyanzy.com": {
+      "key": "www.maoyanzy.com",
+      "name": "🎬猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "detail": "https://www.maoyanzy.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+ "360zy.com": {
+      "key": "360zy.com",
+      "name": "🎬360 资源",
+      "api": "https://360zyzz.com/api.php/provide/vod",
+      "detail": "https://360zy.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+    "caiji.moduapi.cc": {
+      "key": "caiji.moduapi.cc",
+      "name": "🎬魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "detail": "https://caiji.moduapi.cc",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+ "www.moduzy.net": {
+      "key": "www.moduzy.net",
+      "name": "🎬魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": "https://www.moduzy.net",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+ "www.huyaapi.com": {
+      "key": "www.huyaapi.com",
+      "name": "🎬虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "detail": "https://www.huyaapi.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+"bfzy.tv": {
+      "key": "bfzy.tv",
+      "name": "🎬暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "detail": "https://bfzy.tv",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+    "dbzy.tv": {
+      "key": "dbzy.tv",
+      "name": "🎬豆瓣资源",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "detail": "https://dbzy.tv",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+   
+ "www.haohuazy.com": {
+      "key": "www.haohuazy.com",
+      "name": "🎬豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+
+     "lzizy.net": {
+      "key": "lzizy.net",
+      "name": "🎬量子影视",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "https://lzizy.net",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+   
+"p2100.net": {
+      "key": "p2100.net",
+      "name": "🎬飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "detail": "https://p2100.net",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    },
+    
+ "yayazy3.com": {
+      "key": "yayazy3.com",
+      "name": "🎬鸭鸭资源",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "detail": "https://yayazy3.com",
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792235178682"
+    }
+   
+  
+
+
+  },
+  "lives": {},
+  "custom_category": []
+}
