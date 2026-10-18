@@ -1,0 +1,80 @@
+{
+  "site_name": "EchoTV",
+  "announcement": "",
+  "api_site": {
+    "1792361682018": {
+      "key": "1792361682018",
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792362580422"
+    },
+    "1792361693203": {
+      "key": "1792361693203",
+      "name": "360 资源",
+      "api": "https://360zyzz.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792362580422"
+    },
+    "1792361703859": {
+      "key": "1792361703859",
+      "name": "魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792362580422"
+    },
+    "1792361716615": {
+      "key": "1792361716615",
+      "name": "魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792362580422"
+    },
+    "1792361743006": {
+      "key": "1792361743006",
+      "name": "暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792362580422"
+    },
+    "1792362206497": {
+      "key": "1792362206497",
+      "name": "🎬艾旦影视",
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792362887812"
+    },
+    "1792362219179": {
+      "key": "1792362219179",
+      "name": "🎬百度云zy",
+      "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792362887812"
+    },
+    "1792362262044": {
+      "key": "1792362262044",
+      "name": "🎬最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "detail": null,
+      "from": "subscription",
+      "disabled": false,
+      "subscriptionId": "1792362887812"
+    }
+  },
+  "lives": {},
+  "custom_category": []
+}
