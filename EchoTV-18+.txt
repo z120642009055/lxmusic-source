@@ -2,174 +2,150 @@
   "site_name": "EchoTV",
   "announcement": "",
   "api_site": {
-
-   "apidanaizi.com": {
-      "key": "apidanaizi.com",
+    "1792362162744": {
+      "key": "1792362162744",
       "name": "🔞-大奶子-",
       "api": "https://apidanaizi.com/api.php/provide/vod",
-      "detail": "https://apidanaizi.com",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-    "fhapi9.com": {
-      "key": "fhapi9.com",
+    "1792362178230": {
+      "key": "1792362178230",
       "name": "🔞番号资源",
       "api": "http://fhapi9.com/api.php/provide/vod",
-      "detail": "http://fhapi9.com",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-    "lovedan.net": {
-      "key": "lovedan.net",
+    "1792362206497": {
+      "key": "1792362206497",
       "name": "🎬艾旦影视",
       "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
-      "detail": "https://lovedan.net",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-    "bdzy1.com": {
-      "key": "bdzy1.com",
+    "1792362219179": {
+      "key": "1792362219179",
       "name": "🎬百度云zy",
       "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
-      "detail": "https://bdzy1.com",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-    "yhzy.cc": {
-      "key": "yhzy.cc",
+    "1792362235051": {
+      "key": "1792362235051",
       "name": "🎬樱花资源",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "detail": "https://yhzy.cc",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-    "yhdm.cc": {
-      "key": "yhdm.cc",
+    "1792362248202": {
+      "key": "1792362248202",
       "name": "🎬樱花动漫",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "detail": "https://yhdm.cc",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-
-https://m3u8.apiyhzy.com/api.php/provide/vod/
-
-    "zuida.xyz": {
-      "key": "zuida.xyz",
+    "1792362262044": {
+      "key": "1792362262044",
       "name": "🎬最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "detail": "https://zuida.xyz",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-    "wujinzy.me": {
-      "key": "wujinzy.me",
+    "1792362276660": {
+      "key": "1792362276660",
       "name": "🎬无尽资源",
       "api": "https://api.wujinapi.me/api.php/provide/vod",
-      "detail": "https://wujinzy.com",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-   "wujinzy.com": {
-      "key": "wujinzy.com",
+    "1792362298052": {
+      "key": "1792362298052",
       "name": "🎬无尽影视",
       "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "detail": "https://wujinzy.com",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-
-
-
-"heiliaozy.cc": {
-      "key": "heiliaozy.cc",
+    "1792362312794": {
+      "key": "1792362312794",
       "name": "🔞黑料资源",
       "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
-      "detail": "https://heiliaozy.cc",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
- 
-   "www.msnii.com": {
-      "key": "www.msnii.com",
+    "1792362327030": {
+      "key": "1792362327030",
       "name": "🔞-美少女-",
       "api": "https://www.msnii.com/api/json.php",
-      "detail": "https://www.msnii.com",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
-    },    
-
-    "doudouzy.com": {
-      "key": "doudouzy.com",
+      "subscriptionId": null
+    },
+    "1792362340853": {
+      "key": "1792362340853",
       "name": "🔞豆豆资源",
       "api": "https://api.douapi.cc/api.php/provide/vod",
-      "detail": "https://doudouzy.com",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-    "www.kxgav.com": {
-      "key": "www.kxgav.com",
+    "1792362351914": {
+      "key": "1792362351914",
       "name": "🔞白嫖资源",
       "api": "https://www.kxgav.com/api/json.php",
-      "detail": "https://www.kxgav.com",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-    "www.pgxdy.com": {
-      "key": "www.pgxdy.com",
+    "1792362363992": {
+      "key": "1792362363992",
       "name": "🔞-黄AVZY",
       "api": "https://www.pgxdy.com/api/json.php",
-      "detail": "https://www.pgxdy.com",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-    "didizy.com": {
-      "key": "didizy.com",
+    "1792362376248": {
+      "key": "1792362376248",
       "name": "🔞滴滴资源",
       "api": "https://api.ddapi.cc/api.php/provide/vod",
-      "detail": "https://didizy.com",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     },
-
-    "ckzy.me": {
-      "key": "ckzy.me",
+    "1792362389777": {
+      "key": "1792362389777",
       "name": "🔞 CK-资源",
       "api": "https://ckzy.me/api.php/provide/vod",
-      "detail": "https://ckzy.me",
-      "from": "subscription",
+      "detail": null,
+      "from": "custom",
       "disabled": false,
-      "subscriptionId": "1792235178682"
+      "subscriptionId": null
     }
-
-
   },
   "lives": {},
   "custom_category": []
