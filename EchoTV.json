@@ -1,6 +1,8 @@
 {
   "site_name": "EchoTV",
-
+  "announcement": "",
+  "api_site": {
+    
     "cj.lzcaiji.com": {
       "key": "cj.lzcaiji.com",
       "name": "🎬量子资源",
