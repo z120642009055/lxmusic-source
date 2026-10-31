@@ -1,289 +1,42 @@
 {
-  "site": [
-    {
-      "id": "623c0cb9-3ef8-40fa-b94c-d96edebf6b79",
-      "key": "dnz",
-      "name": "大奶子",
-      "api": "https://apidanaizi.com/api.php/provide/vod",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792032476000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "7f06367f-1bdc-4a0f-b1d2-c6afb0208adb",
-      "key": "fhzy",
-      "name": "番号资源",
-      "api": "http://fhapi9.com/api.php/provide/vod",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792050155000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "22023d63-e468-4b7c-8a6b-6b41a693f92e",
-      "key": "ckzy",
-      "name": "CK资源",
-      "api": "https://ckzy.me/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792030246296,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "75081a73-1bd3-4d4c-8676-9a6775184d06",
-      "key": "wjzy",
-      "name": "无尽资源",
-      "api": "https://api.wujinapi.me/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 6,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792030246296,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "d3427942-fa8d-4232-9e96-ee4db629de09",
-      "key": "zdzy",
-      "name": "最大资源",
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792030246296,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "cae446c5-124e-4aa3-8625-06ded041d6df",
-      "key": "msn",
-      "name": "美少女",
-      "api": "https://www.msnii.com/api/json.php",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792049046000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "618e7439-591c-412a-9f0a-90cf0e7fc7ae",
-      "key": "lsb",
-      "name": "黄AVZY",
-      "api": "https://www.pgxdy.com/api/json.php",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792049072000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "96610712-93a2-457b-be10-630883c51682",
-      "key": "DDZY",
-      "name": "滴滴资源",
-      "api": "https://api.ddapi.cc/api.php/provide/vod",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792049751000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "d9b7d6fc-94f8-4957-9807-3775f709c521",
-      "key": "ddzy",
-      "name": "豆豆资源",
-      "api": "https://api.douapi.cc/api.php/provide/vod",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792050364000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "b335cb59-8e61-48f0-a64f-c4705e747dc5",
-      "key": "bpzy",
-      "name": "白嫖资源",
-      "api": "https://www.kxgav.com/api/json.php",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792050882000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "98b9c81a-ad10-4391-b6dd-57b787a41ad1",
-      "key": "adys",
-      "name": "艾旦影视",
-      "api": "https://lovedan.net/api.php/provide/vod",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792333618000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "8a6921a5-45b2-438f-a537-3cdcd9f8ac84",
-      "key": "bdyzy",
-      "name": "百度云zy",
-      "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792333652000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "f7919f34-b20a-4631-82a3-af5caf15c802",
-      "key": "yhzy",
-      "name": "樱花资源",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792333671000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "b87ebbad-0f11-4bf5-b65c-604b0fe12b64",
-      "key": "hlzy",
-      "name": "黑料资源",
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792333707000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "c9d6e707-b766-4afd-92f2-2e57d71b477e",
-      "key": "yhdm",
-      "name": "樱花动漫",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792334815000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "2ca3e5c7-85fe-4cc7-adf7-c952b0a086aa",
-      "key": "wjys",
-      "name": "无尽影视",
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1792334836000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "195a7828-27ab-4dbd-8f57-b4f6f70e1579",
-      "key": "hlx",
-      "name": "黑料X",
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1793414810000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "2f560b41-33c7-4239-89d1-2b179c67f479",
-      "key": "ysj",
-      "name": "淫水机",
-      "api": "https://www.xrbsp.com/api/json.php",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1793414842000,
-      "updatedAt": 1793415435995
-    },
-    {
-      "id": "5f3b9351-f555-4da2-9d73-b38ec1b9dc0d",
-      "key": "xne",
-      "name": "香奶儿",
-      "api": "https://www.gdlsp.com/api/json.php",
-      "playUrl": "",
-      "search": true,
-      "group": "",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1793414864000,
-      "updatedAt": 1793415435995
-    }
-  ]
+  "sites": [
+
+    {"key": "dnzzy", "name": "🔞大奶子", "type": 1, "api": "https://apidanaizi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+
+    {"key": "fhzy", "name": "🔞番号资源", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+
+    {"key": "ckzy", "name": "🔞CK资源", "type": 1, "api": "https://ckzy.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
+
+    {"key": "wjzy", "name": "🔞无尽资源", "type": 1, "api": "https://api.wujinapi.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
+
+    {"key": "zdzy", "name": "🔞最大资源", "type": 1, "api": "https://api.zuidapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+
+    {"key": "msn", "name": "🔞美少女", "type": 1, "api": "https://www.msnii.com/api/json.php", "searchable": 1, "quickSearch": 1},
+
+    {"key": "havzy", "name": "🔞黄AVZY", "type": 1, "api": "https://www.pgxdy.com/api/json.php", "searchable": 1, "quickSearch": 1},
+
+    {"key": "ddzy", "name": "🔞滴滴资源", "type": 1, "api": "https://api.ddapi.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+
+    {"key": "ddzy", "name": "🔞豆豆资源", "type": 1, "api": "https://api.douapi.cc/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+
+    {"key": "bpzy", "name": "🔞白嫖资源", "type": 1, "api": "https://www.kxgav.com/api/json.php", "searchable": 1, "quickSearch": 1},
+
+    {"key": "atys", "name": "🔞艾旦影视", "type": 1, "api": "https://lovedan.net/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+
+    {"key": "bdyzy", "name": "🔞百度云zy", "type": 1, "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+
+    {"key": "yhzy", "name": "🔞樱花资源", "type": 1, "api": "https://m3u8.apiyhzy.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+
+    {"key": "hlzy", "name": "🔞黑料资源", "type": 1, "api": "https://www.heiliaozyapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+
+    {"key": "yhdm", "name": "🔞樱花动漫", "type": 1, "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1},
+
+    {"key": "wjys", "name": "🔞无尽影视", "type": 1, "api": "https://api.wujinapi.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1},
+
+    {"key": "hlx", "name": "🔞黑料X", "type": 1, "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1},
+
+ {"key": "ysjzy", "name": "🔞淫水机", "type": 1, "api": "https://www.xrbsp.com/api/json.php", "searchable": 1, "quickSearch": 1},
+
+    {"key": "xnezy", "name": "🔞香奶儿", "type": 1, "api": "https://www.gdlsp.com/api/json.php", "searchable": 1, "quickSearch": 1}
+    ]
 }
